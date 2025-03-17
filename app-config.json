@@ -1,0 +1,289 @@
+{
+  "subPackages": [
+    {
+      "root": "packages/campus-card/"
+    },
+    {
+      "root": "packages/edu-admin/"
+    },
+    {
+      "root": "packages/library/"
+    },
+    {
+      "root": "packages/others/"
+    },
+    {
+      "root": "packages/pe/"
+    },
+    {
+      "root": "packages/stadium-booking/"
+    },
+    {
+      "root": "packages/pay/"
+    }
+  ],
+  "entryPagePath": "pages/door/index.html",
+  "pages": [
+    "pages/door/index",
+    "pages/login/index",
+    "pages/webview/index",
+    "pages/door/profile/about/index",
+    "pages/door/profile/feedback/index",
+    "pages/door/profile/update-log/index",
+    "pages/door/profile/user-settings/index",
+    "pages/door/profile/user-qrcode/index",
+    "pages/door/profile/about/protocol/index",
+    "packages/campus-card/pages/card-index/index",
+    "packages/campus-card/pages/card-index/card-bill/index",
+    "packages/campus-card/pages/card-index/money-log/index",
+    "packages/campus-card/pages/net-charge/index",
+    "packages/campus-card/pages/card-charge/index",
+    "packages/campus-card/pages/electric-charge/index",
+    "packages/edu-admin/pages/credit/index",
+    "packages/edu-admin/pages/gpa-calc/index",
+    "packages/edu-admin/pages/timetable/index",
+    "packages/edu-admin/pages/grade-exam/index",
+    "packages/edu-admin/pages/score-inquiry/index",
+    "packages/library/pages/index",
+    "packages/library/pages/book-info/index",
+    "packages/library/pages/all-records/index",
+    "packages/others/pages/app-list/index",
+    "packages/others/pages/school-bus/index",
+    "packages/others/pages/school-calendar/index",
+    "packages/others/pages/information/index",
+    "packages/others/pages/news-message/index",
+    "packages/others/pages/notice-announcement/index",
+    "packages/others/pages/edu-news/index",
+    "packages/others/pages/detail-info/news-detail/index",
+    "packages/others/pages/detail-info/edu-detail/index",
+    "packages/others/pages/detail-info/annouce-detail/index",
+    "packages/pe/pages/peRunIndex/index",
+    "packages/pe/pages/peScoreIndex/index",
+    "packages/stadium-booking/pages/index",
+    "packages/stadium-booking/pages/booking/index",
+    "packages/stadium-booking/pages/notices/index",
+    "packages/pay/pages/pay-page/index",
+    "packages/pay/pages/pay-success/index",
+    "packages/pay/pages/pay-loading/index"
+  ],
+  "page": {
+    "pages/door/index.html": {
+      "window": {
+        "disableScroll": true
+      }
+    },
+    "pages/login/index.html": {
+      "window": {
+        "navigationBarTitleText": "封面",
+        "disableScroll": true
+      }
+    },
+    "pages/webview/index.html": {
+      "window": {}
+    },
+    "pages/door/profile/about/index.html": {
+      "window": {}
+    },
+    "pages/door/profile/feedback/index.html": {
+      "window": {}
+    },
+    "pages/door/profile/update-log/index.html": {
+      "window": {}
+    },
+    "pages/door/profile/user-settings/index.html": {
+      "window": {}
+    },
+    "pages/door/profile/user-qrcode/index.html": {
+      "window": {}
+    },
+    "pages/door/profile/about/protocol/index.html": {
+      "window": {}
+    },
+    "packages/campus-card/pages/card-index/index.html": {
+      "window": {
+        "navigationBarTitleText": "一卡通",
+        "enablePullDownRefresh": true
+      }
+    },
+    "packages/campus-card/pages/card-index/card-bill/index.html": {
+      "window": {}
+    },
+    "packages/campus-card/pages/card-index/money-log/index.html": {
+      "window": {}
+    },
+    "packages/campus-card/pages/net-charge/index.html": {
+      "window": {
+        "disableScroll": true
+      }
+    },
+    "packages/campus-card/pages/card-charge/index.html": {
+      "window": {
+        "navigationBarTitleText": "校园卡充值",
+        "enablePullDownRefresh": true,
+        "backgroundTextStyle": "dark"
+      }
+    },
+    "packages/campus-card/pages/electric-charge/index.html": {
+      "window": {}
+    },
+    "packages/edu-admin/pages/credit/index.html": {
+      "window": {
+        "navigationBarTitleText": "自主学分",
+        "disableScroll": true
+      }
+    },
+    "packages/edu-admin/pages/gpa-calc/index.html": {
+      "window": {}
+    },
+    "packages/edu-admin/pages/timetable/index.html": {
+      "window": {
+        "disableScroll": true
+      }
+    },
+    "packages/edu-admin/pages/grade-exam/index.html": {
+      "window": {}
+    },
+    "packages/edu-admin/pages/score-inquiry/index.html": {
+      "window": {}
+    },
+    "packages/library/pages/index.html": {
+      "window": {
+        "navigationBarTitleText": "图书馆",
+        "disableScroll": true,
+        "backgroundColor": "#FFFFFF",
+        "backgroundTextStyle": "dark"
+      }
+    },
+    "packages/library/pages/book-info/index.html": {
+      "window": {
+        "navigationBarTitleText": "图书信息",
+        "disableScroll": true,
+        "backgroundColor": "#FFFFFF",
+        "backgroundTextStyle": "dark"
+      }
+    },
+    "packages/library/pages/all-records/index.html": {
+      "window": {
+        "navigationBarTitleText": "全部馆藏",
+        "disableScroll": true,
+        "backgroundColor": "#FFFFFF",
+        "backgroundTextStyle": "dark"
+      }
+    },
+    "packages/others/pages/app-list/index.html": {
+      "window": {
+        "navigationBarTitleText": "应用中心",
+        "backgroundColor": "#F5F5F5",
+        "disableScroll": true
+      }
+    },
+    "packages/others/pages/school-bus/index.html": {
+      "window": {
+        "disableScroll": true
+      }
+    },
+    "packages/others/pages/school-calendar/index.html": {
+      "window": {
+        "disableScroll": true
+      }
+    },
+    "packages/others/pages/information/index.html": {
+      "window": {
+        "disableScroll": true
+      }
+    },
+    "packages/others/pages/news-message/index.html": {
+      "window": {
+        "disableScroll": true
+      }
+    },
+    "packages/others/pages/notice-announcement/index.html": {
+      "window": {
+        "disableScroll": true
+      }
+    },
+    "packages/others/pages/edu-news/index.html": {
+      "window": {
+        "disableScroll": true
+      }
+    },
+    "packages/others/pages/detail-info/news-detail/index.html": {
+      "window": {}
+    },
+    "packages/others/pages/detail-info/edu-detail/index.html": {
+      "window": {}
+    },
+    "packages/others/pages/detail-info/annouce-detail/index.html": {
+      "window": {}
+    },
+    "packages/pe/pages/peRunIndex/index.html": {
+      "window": {
+        "navigationBarTitleText": "晨跑",
+        "disableScroll": true
+      }
+    },
+    "packages/pe/pages/peScoreIndex/index.html": {
+      "window": {
+        "navigationBarTitleText": "体育部",
+        "disableScroll": true
+      }
+    },
+    "packages/stadium-booking/pages/index.html": {
+      "window": {
+        "backgroundColor": "#FBFBFB",
+        "disableScroll": true
+      }
+    },
+    "packages/stadium-booking/pages/booking/index.html": {
+      "window": {}
+    },
+    "packages/stadium-booking/pages/notices/index.html": {
+      "window": {}
+    },
+    "packages/pay/pages/pay-page/index.html": {
+      "window": {}
+    },
+    "packages/pay/pages/pay-success/index.html": {
+      "window": {}
+    },
+    "packages/pay/pages/pay-loading/index.html": {
+      "window": {}
+    }
+  },
+  "global": {
+    "window": {
+      "backgroundTextStyle": "light",
+      "handleWebviewPreload": "auto",
+      "navigationBarBackgroundColor": "#fff",
+      "navigationBarTitleText": "WeChat",
+      "navigationBarTextStyle": "black",
+      "navigationStyle": "custom"
+    }
+  },
+  "tabBar": {
+    "custom": true,
+    "color": "#949494",
+    "borderStyle": "white",
+    "selectedColor": "#1A8CF4",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "text": "",
+        "pagePath": "pages/door/index.html"
+      },
+      {
+        "text": "",
+        "pagePath": "pages/login/index.html"
+      }
+    ]
+  },
+  "renderer": {
+    "allUsed": ["webview"],
+    "default": "webview"
+  },
+  "__usePrivacyCheck__": true,
+  "componentFramework": {
+    "allUsed": ["exparser"],
+    "default": "exparser"
+  }
+}
