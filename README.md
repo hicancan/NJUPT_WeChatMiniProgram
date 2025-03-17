@@ -1,1 +1,1 @@
-# 南京邮电大学小程序 NJUPT_WeChatMiniProgram
+# 南京邮电大学微信小程序 NJUPT_WeChatMiniProgram
